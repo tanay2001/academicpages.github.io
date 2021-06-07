@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tanay Dixit"
 title_separator          : "-"
 name                     : &name "Tanay Dixit"
 description              : &description "personal description"
@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanay Dixit"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Undergraduate Student at IIT Madras"
+  bio              : "rising senior at IIT Madras"
   location         : "Pune. India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :
+  email            :  "ee19b123@smail.iitm.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/tanay.dixit.7355/"
   foursquare       :
   github           : "tanay2001"
   google_plus      :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/tanaydixit"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
