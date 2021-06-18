@@ -22,7 +22,7 @@ I am currently looking for exciting research oppurtinites in the field of NLP <b
 </p>
 <br><br> <br>
 <span align ='center' style="color:DimGray">Multilingual Text Classification </span> <br>
- Training robust models on sparce mutlilingual data to perform at par with as some XLM models
+ Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to perform at par with as some XLM models
 
 <br clear="left"/>
 <br> 
@@ -32,7 +32,7 @@ I am currently looking for exciting research oppurtinites in the field of NLP <b
   </a>
 </p>
 <br><br>
-<span align ='center' style="color:DimGray" >Style Transfer </span><br> Making using of some recent generative modelling techniques to understand how Snapchat filters work
+<span align ='center' style="color:DimGray" >Style Transfer </span><br> Making using of some <a href="https://arxiv.org/abs/1912.01865">recent</a> generative modelling techniques to understand how Snapchat filters work
 
 <br clear="left"/>
 <br>
@@ -44,7 +44,7 @@ I am currently looking for exciting research oppurtinites in the field of NLP <b
 <br><br> <br>
 <p >
 <span align ='center' style="color:DimGray">Document Layout Understaning </span> <br> 
-Extending BERTs' MLM objective and Transformers to images for self supervised learning, which truely shows the power of these modelling techniques.
+Extending BERTs' MLM objective and Transformers to <a href ="https://arxiv.org/abs/2012.14740">images </a> for self supervised learning, which truely shows the power of these modelling techniques.
 </p>
 
 <br clear="left"/>
