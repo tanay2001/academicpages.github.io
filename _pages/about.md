@@ -18,7 +18,7 @@ Apart from my Research work, I am also the Head of the [Analytics Club](https://
   </a>
 </p>
 <br><br> <br>
-<span align ='center' style="color:DimGray"; font-weight:700>Multilingual Text Classification </span> <br>
+<span align ='center' style="color:DimGray; font-weight:700">Multilingual Text Classification </span> <br>
  Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to perform at par with as some XLM models
 
 <br clear="left"/>
