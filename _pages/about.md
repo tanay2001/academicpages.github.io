@@ -19,7 +19,7 @@ Apart from my research work, I am also the Head of the [Analytics Club](https://
 </p>
 <br><br> <br>
 <span align ='center' style="color:DimGray; font-weight:700">Multilingual Text Classification </span> <br>
- Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to perform at par with as some XLM models
+ Training <a href="https://arxiv.org/pdf/2012.15699.pdf">robust</a> models on sparce mutlilingual data to improve out of distribution robustness
 
 <br clear="left"/>
 <br> 
@@ -41,7 +41,7 @@ Apart from my research work, I am also the Head of the [Analytics Club](https://
 <br><br> <br>
 <p >
 <span align ='center' style="color:DimGray; font-weight:700">Document Layout Understaning </span> <br> 
-Extending BERTs' MLM objective and Transformers to <a href ="https://arxiv.org/abs/2012.14740">images </a> for self supervised learning, which truely shows the power of these modelling techniques.
+Extending BERT and Transformers to <a href ="https://arxiv.org/abs/2012.14740">images </a> for self supervised learning, which truely shows the power of these modelling techniques.
 </p>
 
 <br clear="left"/>
@@ -49,6 +49,6 @@ Extending BERTs' MLM objective and Transformers to <a href ="https://arxiv.org/a
 
 
 ## Miscellaneous
-- In my free time like to play tennis , Nadal 🐐 !
+- I like to play tennis , Nadal 🐐 !
 - Love trying out different cuisines and dishes,on a quest to dine at all the best restaurants that exist, feel free to drop in some recommendations 😁
 - Want to learn how to write blogs like [this](https://lilianweng.github.io/lil-log/)
