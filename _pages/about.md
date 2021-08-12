@@ -51,4 +51,4 @@ Extending BERT and Transformers to <a href ="https://arxiv.org/abs/2012.14740">i
 ## Miscellaneous
 - I like to play tennis , Nadal 🐐 !
 - Love trying out different cuisines and dishes,on a quest to dine at all the best restaurants that exist, feel free to drop in some recommendations 😁
-- Want to learn how to write blogs like [this](https://lilianweng.github.io/lil-log/)
+- Attempting to write blogs like [this](https://lilianweng.github.io/lil-log/)
