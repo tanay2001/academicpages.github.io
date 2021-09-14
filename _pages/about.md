@@ -13,10 +13,10 @@ I'm a third-year undergraduate in the Electrical Engineering department at IIT M
 Apart from my research work, I am also the head of the [Analytics Club](https://github.com/analytics-club-iitm) at IIT Madras, it's one of the most active and sought after clubs in the University that works on topics pertaining to AI. We actively work to solve social problems by leveraging tools from ML. For further info visit our Github organization(We try our best to keep it up to date ;) <br> <br> Previously, I have got the opportunity to contribute immensely to some early staged startups namely BlueBarrel Solutions in the US and NikkOtto at IITM. I also interned at Subex, Banglore where I worked with V&L models with aim of automating the invoice verification process. <br><br>
 
 ## Publications and Preprints
-+ **Perturbation CheckLists for Evaluating NLG Evaluation Metrics.** <br/>
-Ananya B. Sai, **Tanay Dixit**, Dev Sheth, Sreyas Mohan, Mitesh Khapra <br/>
-*Proc. Empirical Methods in Natural Language Processing (**EMNLP**), 2021* <br/>
-[[Paper](http://arxiv.org/abs/2109.05771)] [[code](https://github.com/iitmnlp/EvalEval)] [[website](https://iitmnlp.github.io/EvalEval/)]
++ **Perturbation CheckLists for Evaluating NLG Evaluation Metrics.** <br>
+Ananya B. Sai, **Tanay Dixit**, Dev Sheth, Sreyas Mohan, Mitesh Khapra <br>
+*Proc. Empirical Methods in Natural Language Processing (**EMNLP**), 2021* <br>
+[[Paper](http://arxiv.org/abs/2109.05771)] [[code](https://github.com/iitmnlp/EvalEval)] [[website](https://iitmnlp.github.io/EvalEval/)]. <br><br><br>
 ## Some of my favourite projects
 <p>
   <a href="https://github.com/vasudevgupta7/Bridgei2i-Winning-Solutions" title="Redirect to homepage">
