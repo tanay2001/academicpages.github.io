@@ -56,7 +56,7 @@ Extending BERT and Transformers to <a href ="https://arxiv.org/abs/2012.14740">i
 
 
 ## Miscellaneous
-- I may not have gone where I intended to go, but I think I have ended up where I needed to be. ~Douglas Adams
+- One of my favorite quotes : I may not have gone where I intended to go, but I think I have ended up where I needed to be. ~Douglas Adams
 - I like to play tennis , Nadal 🐐 !
 - Love trying out different cuisines and dishes,on a quest to dine at all the best restaurants that exist, feel free to drop in some recommendations 😁
 - Attempting to write blogs like [this](https://lilianweng.github.io/lil-log/)
