@@ -13,15 +13,14 @@ I'm a third-year undergraduate in the Electrical Engineering department at IIT M
 Apart from my research work, I am also the head of the [Analytics Club](https://github.com/analytics-club-iitm) at IIT Madras, it's one of the most active and sought after clubs in the University that works enthusiastically towards impacting real-world problems by harnessing Machine Learning. For further info visit our Github organization(We try our best to keep it up to date) <br> <br> Previously, I have got the opportunity to contribute immensely to some early staged startups namely BlueBarrel Solutions in the US and NikkOtto at IITM. I also interned at [Subex](https://www.subex.com/ai-labs/) where I worked with V&L models with aim of automating the invoice verification process. You can find my CV [here](https://drive.google.com/file/d/1VLkrn2bQOkn7a-xxT1GjJGyPUfiZgZXE/view?usp=sharing)<br><br>
 
 ## Publications
-+ **Perturbation CheckLists for Evaluating NLG Evaluation Metrics.** <br>
++ **Perturbation CheckLists for Evaluating NLG Evaluation Metrics** <br>
 Ananya B. Sai, **Tanay Dixit**, Dev Sheth, Sreyas Mohan, Mitesh Khapra <br>
 *Proc. Empirical Methods in Natural Language Processing (**EMNLP**), 2021* <br>
-[[Paper](http://arxiv.org/abs/2109.05771)] [[code](https://github.com/iitmnlp/EvalEval)] [[website](https://iitmnlp.github.io/EvalEval/)]. 
-<br><br><br>
+[[Paper](http://arxiv.org/abs/2109.05771)] [[code](https://github.com/iitmnlp/EvalEval)] [[website](https://iitmnlp.github.io/EvalEval/)]
 ## Preprints
 + **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation** <br>
 Kaustubh D. Dhole,Varun Gangal, .... **Tanay Dixit**, ... (many authors) <br>
-[[Paper](https://arxiv.org/abs/2112.02721)][[code](https://github.com/GEM-benchmark/NL-Augmenter)] <br>
+[[Paper](https://arxiv.org/abs/2112.02721)][[code](https://github.com/GEM-benchmark/NL-Augmenter)]
 ## Some of my favourite projects
 <p>
   <a href="https://github.com/vasudevgupta7/Bridgei2i-Winning-Solutions" title="Redirect to homepage">
