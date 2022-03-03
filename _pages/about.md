@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate in the Electrical Engineering department at IIT Madras. I am currently working as an undergraduate researcher under [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) at the Robert Bosch Center for Data Science and AI, IIT Madras.<br> My research interests mainly lie in the applications of Deep Learning to various settings like Natural Language Processing. Currently, I am working on studying the vulnerabilities of systems from various adversarial perspectives, quantifying and analyzing the robustness of models.<br>
+I'm a third-year undergraduate in the Electrical Engineering department at IIT Madras. I have worked as an undergraduate researcher under [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) at the Robert Bosch Center for Data Science and AI, IIT Madras.<br> My research interests mainly lie in the applications of Deep Learning to various settings like Natural Language Processing. I am working on studying the vulnerabilities of systems from various adversarial perspectives, quantifying and analyzing the robustness of models. Currently, I am interning remotely at the [H2lab](https://h2lab.cs.washington.edu/), University of Washington where I am working on counterfacutal data generation methods. <br>
 
-Apart from my research work, I am also the head of the [Analytics Club](https://github.com/analytics-club-iitm) at IIT Madras, it's one of the most active and sought after clubs in the University that works enthusiastically towards impacting real-world problems by harnessing Machine Learning. For further info visit our Github organization(We try our best to keep it up to date) <br> <br> Previously, I have got the opportunity to contribute immensely to some early staged startups namely BlueBarrel Solutions in the US and NikkOtto at IITM. I also interned at [Subex](https://www.subex.com/ai-labs/) where I worked with V&L models with aim of automating the invoice verification process. You can find my CV [here](/files/TanayCV_nov.pdf) <br><br>
+Apart from my research work, I am also the head of the [Analytics Club](https://github.com/analytics-club-iitm) at IIT Madras, it's one of the most active and sought after clubs in the University that works enthusiastically towards impacting real-world problems by harnessing Machine Learning. For further info visit our Github organization(We try our best to keep it up to date) <br> <br> Previously, I have got the opportunity to contribute immensely to some early staged startups namely BlueBarrel Solutions in the US and NikkOtto at IITM. I also interned at [Subex](https://www.subex.com/ai-labs/) where I worked with Vision & Language models with aim of automating the invoice verification process. <br><br>
 
 ## Publications & Preprints
 + **Perturbation CheckLists for Evaluating NLG Evaluation Metrics** <br>
@@ -59,5 +59,5 @@ Extending BERT and Transformers to <a href ="https://arxiv.org/abs/2012.14740">i
 
 ## Miscellaneous
 - One of my favorite quotes : I may not have gone where I intended to go, but I think I have ended up where I needed to be. ~Douglas Adams
-- I like to play tennis , Nadal 🐐 !
+- I like to play tennis , Nadal officially the 🐐 ! 
 - Love trying out different cuisines and dishes,on a quest to dine at all the best restaurants that exist, feel free to drop in some recommendations 😁
