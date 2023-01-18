@@ -26,8 +26,9 @@ Ananya B. Sai, **Tanay Dixit**, Dev Sheth, Sreyas Mohan, Mitesh Khapra <br>
 *Proc. Empirical Methods in Natural Language Processing (**EMNLP**), 2021* <br>
 [[Paper](http://arxiv.org/abs/2109.05771)][[code](https://github.com/iitmnlp/EvalEval)][[website](https://iitmnlp.github.io/EvalEval/)] <br><br>
 + **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation** <br>
-Kaustubh D. Dhole et al <br>
-[[pre-print](https://arxiv.org/abs/2112.02721)][[code](https://github.com/GEM-benchmark/NL-Augmenter)]<br>
+Kaustubh D. Dhole et al <br> 
+*Association for Computational Linguistics* **GEM Workshop** ACL 2021 <br>
+[[paper](https://arxiv.org/abs/2112.02721)][[code](https://github.com/GEM-benchmark/NL-Augmenter)]<br>
 
 ## Preprints
 + **IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation metrics for Indian Languages** <br>
@@ -72,6 +73,6 @@ Extending BERT and Transformers to <a href ="https://arxiv.org/abs/2012.14740">i
 
 
 ## Miscellaneous
-- One of my favorite quotes : I may not have gone where I intended to go, but I think I have ended up where I needed to be. ~Douglas Adams
-- I like to play tennis , Nadal officially the 🐐 ! 
+- One of my favorite quotes : *I Wish There Was a Way to Know You're in the Good Old Days Before You've Actually Left Them* ~Andy Bernard (office!)
+- I like to play tennis in my free time, Nadal officially the 🐐 ! 
 - Love trying out different cuisines and dishes,on a quest to dine at all the best restaurants that exist, feel free to drop in some recommendations 😁
