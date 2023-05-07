@@ -13,6 +13,14 @@ I'm a senior undergraduate in the Electrical Engineering department at IIT Madra
 Aside from my research, I was the head of the [Analytics Club](https://github.com/analytics-club-iitm) at IIT Madras for '21-22; it's one of the most active and sought-after groups in the University, working actively to affect real-world problems by utilizing Machine Learning. For further info visit our Github organization. I still continue to contribute by being a memeber of the Student Council.<br> <br> Previously, I have got the opportunity to contribute immensely to some early staged startups namely BlueBarrel Solutions and NikkOtto. I also interned at [Subex](https://www.subex.com/ai-labs/) where I worked with Vision & Language models with aim of automating the invoice verification process. <br><br>
 
 ## Publications
++ **Improving Factuality of Abstractive Summarization without Sacrificing Summary Quality** <br>
+**Tanay Dixit**, Fei Wang, Muhao Chen <br>
+*Association for Computational Linguistics (**ACL**) 2023* <br>
+[[Paper]()][[code]()] <br><br>
++ **IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation metrics for Indian Languages** <br>
+Ananya B. Sai, **Tanay Dixit**,Vignesh Nagarajan, Anoop Kunchukuttan, Pratyush Kumar, Mitesh M. Khapra, Raj Dabre <br>
+*Association for Computational Linguistics (**ACL**) 2023* <br>
+[[pre-print](https://arxiv.org/abs/2212.10180)] <br><br>
 + **CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation** <br>
 **Tanay Dixit**, Bhargavi Paranjape, Hannaneh Hajishirzi, Luke Zettlemoyer <br>
 *Proc. Empirical Methods in Natural Language Processing (**Findings EMNLP**), 2022* <br>
@@ -30,10 +38,6 @@ Kaustubh D. Dhole et al <br>
 *Association for Computational Linguistics* **GEM Workshop** ACL 2021 <br>
 [[paper](https://arxiv.org/abs/2112.02721)][[code](https://github.com/GEM-benchmark/NL-Augmenter)]<br>
 
-## Preprints
-+ **IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation metrics for Indian Languages** <br>
-Ananya B. Sai, Vignesh Nagarajan, **Tanay Dixit**, Raj Dabre, Anoop Kunchukuttan, Pratyush Kumar, Mitesh M. Khapra <br>
-[[pre-print](https://arxiv.org/abs/2212.10180)]
 
 ## Some of my favourite projects
 <p>
